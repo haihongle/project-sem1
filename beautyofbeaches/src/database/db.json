@@ -1,0 +1,1705 @@
+{
+    "regions": [       
+        {
+            "id": 1,
+            "name": "Western",
+            "title": "The Western Beaches",
+            "path": "/images/Beachpage west.jpg",
+            "info": "Blending in with the busy life of the city, yet never losing their natural beauty, you will find the modernity mixed with the nature that the beaches here can offer.",
+            "beaches": [
+                {
+                    "id": 1,
+                    "name": "Playa De Ses IIIetes Beach",
+                    "info": "Playa de Ses Illetes is the most popular destination for charter boats visiting Formentera.Its white sand and crystal waters make this beach that was once crowned the sixth best beach in the world, one of the most legendary beaches of the Mediterranean. ",
+                    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12445.620814210968!2d1.4394927214569098!3d38.75440929527846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12995b8e03e6d0a1%3A0x414fe98c309524f9!2sPlatja%20de%20Ses%20Illetes!5e0!3m2!1svi!2s!4v1714557648497!5m2!1svi!2s",
+                    "gallery": [
+                        {
+                            "id": 1,
+                            "path": "/images/Western/Playa De Ses IIIetes/beach (1).jpg"
+                        },
+                        {
+                            "id": 2,
+                            "path": "/images/Western/Playa De Ses IIIetes/beach (2).jpg"
+                        },
+                        {
+                            "id": 3,
+                            "path": "/images/Western/Playa De Ses IIIetes/beach (3).jpg"
+                        },
+                        {
+                            "id": 4,
+                            "path": "/images/Western/Playa De Ses IIIetes/beach (4).jpg"
+                        },
+                        {
+                            "id": 5,
+                            "path": "/images/Western/Playa De Ses IIIetes/beach (5).jpg"
+                        }
+                    ],
+                    "food": [
+                        {
+                            "id": 1,
+                            "info":"A savory delight featuring crispy bacon in a rich, creamy sauce. It offers a perfect balance of smoky flavors and creamy textures, making it a popular choice for those craving indulgence in every bite.",
+                            "name": "Creamy Bacon",
+                            "path": "/images/Western/Playa De Ses IIIetes/food (1).jpg",
+                            "location": "Vanni Formentera",
+                            "link": "https://www.tripadvisor.com.vn/Restaurant_Review-g1188767-d23643738-Reviews-Vanni_Formentera-Sant_Francesc_de_Formentera_Formentera_Balearic_Islands.html"
+                        },
+                        {
+                            "id": 2,
+                            "info":"Tender calamari coated in a rich black batter, fried to perfection. A visually striking dish with bold flavors, perfect for seafood enthusiasts.",
+                            "name": "Black Calamari",
+                            "path": "/images/Western/Playa De Ses IIIetes/food (2).jpg",
+                            "location": "Blanco Bar",
+                            "link": "https://www.tripadvisor.com.vn/Restaurant_Review-g673238-d10455074-Reviews-CARMEN_by_Blanco-Es_Pujols_Formentera_Balearic_Islands.html"
+                        },
+                        {
+                            "id": 3,
+                            "info":"Strawberry Cheesecake: A classic dessert featuring a creamy, smooth cheesecake filling atop a graham cracker crust, topped with luscious strawberries.",
+                            "name": "Strawberry Cheese Cake",
+                            "path": "/images/Western/Playa De Ses IIIetes/food (3).jpg",
+                            "location": "Kiosko 62",
+                            "link": "https://www.tripadvisor.com.vn/Restaurant_Review-g187461-d3461943-Reviews-Kiosko_62-Formentera_Balearic_Islands.html"
+                        }
+                    ],
+                    "hotel": [
+                        {
+                            "id": 1,
+                            "name": "Insotel Club Maryland",
+                            "location": "Migjorn Beach, 07872, Formentera Spain",
+                            "path": "/images/Western/Playa De Ses IIIetes/hotel (1).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Hotel_Review-g187461-d249133-Reviews-Insotel_Club_Maryland-Formentera_Balearic_Islands.html"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Hotel Entre Pinos",
+                            "location": "Avenida Mola Km 12,3, 07872 Es Calo, Formentera Spain",
+                            "path": "/images/Western/Playa De Ses IIIetes/hotel (2).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Hotel_Review-g1188762-d1152071-Reviews-Hotel_Entre_Pinos-Es_Calo_Formentera_Balearic_Islands.html"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Hotel Riu La Mola",
+                            "location": "Carrer Maryland S/N, 07871 Migjorn, Formentera Spain",
+                            "path": "/images/Western/Playa De Ses IIIetes/hotel (3).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Hotel_Review-g1187915-d238673-Reviews-Hotel_Riu_La_Mola-Migjorn_Formentera_Balearic_Islands.html"
+                        }
+                    ],
+                    "travel": [
+                        {
+                            "id": 1,
+                            "name": "Iberia",
+                            "path": "/images/Western/Playa De Ses IIIetes/flight (1).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Airline_Review-d8729089-Reviews-Iberia"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Vueling Airlines",
+                            "path": "/images/Western/Playa De Ses IIIetes/flight (2).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Airline_Review-d8729185-Reviews-Vueling-Airlines"
+                        }
+                    ],
+                    "activity": [
+                        {  
+                            "id": 1,
+                            "info": "Private Sailing Experience",
+                            "path": "/images/Western/Playa De Ses IIIetes/activity (1).jpg"  
+                        },
+                        {  
+                            "id": 2,
+                            "info": "7-Hour Tour On Sailboat with Skipper",
+                            "path": "/images/Western/Playa De Ses IIIetes/activity (2).jpg"  
+                        },
+                        {  
+                            "id": 3,
+                            "info": "Underwater Diving",
+                            "path": "/images/Western/Playa De Ses IIIetes/activity (3).jpg"  
+                        }
+                    ],
+                    "blog": [
+                        {
+                            "id": 1,
+                            "info": "Playa De Ses IIIetes Our Guide to Formentera",
+                            "content":"Playa de ses Illetes is located just north of the island of Formentera, in a very long stretch of land that seems to extend its arms to neighbouring Ibiza. For a truly unforgettable experience, we recommend an overnight stay which will allow you to discover the lesser known beaches and coves.",
+                            "link": "https://luxchartersibiza.com/playa-de-ses-illetes-formentera/"
+                        },
+                        {
+                            "id": 2,
+                            "info":"Ses Illetes: Beach in Formentera",
+                            "content":"Considered one of the most beautiful beaches in the world, Ses Illetes is one of the most iconic images of the island of Formentera. This beach is located within the Ses Salines de Eivissa and Formentera Natural Park, and is a mandatory stop on your trip. ",
+                            "link": "https://passporterapp.com/en/blog/spain/ses-illetes-formentera/"
+                        }
+                    ],
+                    "feedback": [
+                        {
+                            "id": 1,
+                            "username": "Roberto C",
+                            "rating": "5",
+                            "content":"Crystal clear water with ideal landscape, in my opinion the best beach in Europe. Spectacular sunsets, and my favorite place in the world"
+                        },
+                        {
+                            "id": 2,
+                            "username": "dcablo",
+                            "rating": "5",
+                            "content":"The most famous beach on the island, we went first thing in the morning so we could get there and park. If there are many people, they close the access road by car. It is beautiful and allows you to walk along the spit of land with the sea on both sides, crystal clear water."
+                        },
+                        {
+                            "id": 3,
+                            "username": "Raul FF",
+                            "rating": "4",
+                            "content":"Spectacular paradise beach. The only thing missing for 5 stars is the lack of space in the sand, which makes it a little uncomfortable due to overcrowding."
+                        }
+                    ] 
+                },
+                {
+                    "id": 2,
+                    "name": "Santa Maria Del Mar Beach",
+                    "info": "Santa Maria Del Mar is the most popular beach to the east of Havana in Cuba. In most cases, when someone says Playas del Este, he means right this point. The beach is really perfect, and there's also excellent community of locals and tourists.",
+                    "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29343.493119230934!2d-82.1793108991539!3d23.172512486081683!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d2806e1dbf372d%3A0x8948446c9dbe70db!2sBeach%20Santa%20Maria%20del%20Mar!5e0!3m2!1svi!2s!4v1714557695745!5m2!1svi!2s",
+                    "gallery": [
+                        {
+                            "id": 1,
+                            "path": "/images/Western/Santa Maria del Mar/beach (1).jpg"
+                        },
+                        {
+                            "id": 2,
+                            "path": "/images/Western/Santa Maria del Mar/beach (2).jpg"
+                        },
+                        {
+                            "id": 3,
+                            "path": "/images/Western/Santa Maria del Mar/beach (3).jpg"
+                        },
+                        {
+                            "id": 4,
+                            "path": "/images/Western/Santa Maria del Mar/beach (4).jpg"
+                        },
+                        {
+                            "id": 5,
+                            "path": "/images/Western/Santa Maria del Mar/beach (5).jpg"
+                        }
+                    ],
+                    "food": [
+                        {
+                            "id": 1,
+                            "info": "Succulent duck meat glazed in a tantalizing blend of sweet and tangy sauce. A delightful dish with tender meat and a burst of flavors, perfect for those craving a balance of sweet and savory.",
+                            "name": "Sweet & Sour Duck",
+                            "path": "/images/Western/Santa Maria del Mar/food (1).jpg",
+                            "location": "Doña Alicia",
+                            "link": "https://www.tripadvisor.com.vn/Restaurant_Review-g147271-d14150849-Reviews-Dona_Alicia-Havana_Ciudad_de_la_Habana_Province_Cuba.html"
+                        },
+                        {
+                            "id": 2,
+                            "info":"A creamy Italian dish featuring Arborio rice cooked to perfection with eggs, Parmesan cheese, and flavorful broth. Rich, comforting, and satisfying, Egg Risotto offers a harmonious blend of creamy textures and savory flavors.",
+                            "name": "Egg Risotto",
+                            "path": "/images/Western/Santa Maria del Mar/food (2).jpg",
+                            "location": "La Carreta",
+                            "link": "https://www.tripadvisor.com.vn/Restaurant_Review-g147271-d26339399-Reviews-La_Carreta-Havana_Ciudad_de_la_Habana_Province_Cuba.html"
+                        },
+                        {
+                            "id": 3,
+                            "info":" A refreshing and floral twist on the classic gin, infused with the delicate essence of violet flowers. Crisp and aromatic, Violet Gin offers a unique blend of botanicals with a subtle hint of sweetness.",
+                            "name": "Violet Gin",
+                            "path": "/images/Western/Santa Maria del Mar/food (3).jpg",
+                            "location": "Sibarita Habana",
+                            "link": "https://www.tripadvisor.com.vn/Restaurant_Review-g147271-d24934247-Reviews-Sibarita_Habana-Havana_Ciudad_de_la_Habana_Province_Cuba.html"
+                        }
+                    ],
+                    "hotel": [
+                        {
+                            "id": 1,
+                            "name": "Mystique Habana by Royalton",
+                            "location":"Prado No. 163 Colon Corner, Havana 10100 Cuba",
+                            "path": "/images/Western/Santa Maria del Mar/hotel (1).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Hotel_Review-g147271-d25183967-Reviews-Mystique_Habana_by_Royalton-Havana_Ciudad_de_la_Habana_Province_Cuba.html"
+                        },
+                        {
+                            "id": 2,
+                            "name": "VOYA Boutique Hotel",
+                            "location":"Juan Delgado 255 Milagros, Havana 10500 Cuba",
+                            "path": "/images/Western/Santa Maria del Mar/hotel (2).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Hotel_Review-g147271-d24042250-Reviews-VOYA_Boutique_Hotel-Havana_Ciudad_de_la_Habana_Province_Cuba.html"
+                        },
+                        {
+                            "id": 3,
+                            "name": "La Villa Teresa",
+                            "location":"Patrocinio No. 251 e/ Entre Juan Bruno Zayas y Cortina La Vibora, Havana 10500 Cuba",
+                            "path": "/images/Western/Santa Maria del Mar/hotel (3).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Hotel_Review-g147271-d13536627-Reviews-La_Villa_Teresa-Havana_Ciudad_de_la_Habana_Province_Cuba.html"
+                        }
+                    ],
+                    "travel": [
+                        {
+                            "id": 1,
+                            "name": "Transtur",
+                            "path": "/images/Western/Santa Maria del Mar/flight (1).jpg",
+                            "link": "https://www.rentcarcuba.com/en"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Cubana Airlines",
+                            "path": "/images/Western/Santa Maria del Mar/flight (2).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Airline_Review-d8729058-Reviews-Cubana-De-Aviacion"
+                        }
+                    ],
+                    "activity": [
+                        {  
+                            "id": 1,
+                            "info": "Swimming With Sea Lions",
+                            "path": "/images/Western/Santa Maria del Mar/activity (1).jpg"  
+                        },
+                        {  
+                            "id": 2,
+                            "info": "Lima Gourmet Food Tour",
+                            "path": "/images/Western/Santa Maria del Mar/activity (2).jpg"  
+                        },
+                        {  
+                            "id": 3,
+                            "info": "Marcahuasi Experience",
+                            "path": "/images/Western/Santa Maria del Mar/activity (3).jpg"  
+                        }
+                    ],
+                    "blog": [
+                        {
+                            "id": 1,
+                            "info": "Santa María del Mar Beach in Havana, Cuba.",
+                            "content":"Hello, curious traveler! If you are here, it is because you are probably wondering if Playa Santa María del Mar is worth visiting, and let me tell you that you are about to discover one of the best beaches that border Havana. In this article we want to share with you everything you need to know.",
+                            "link": "https://encuba.net/en/santa-maria-del-mar-beach-in-havana-cuba/"
+                        },
+                        {
+                            "id": 2,
+                            "info":"Havana Beach Day",
+                            "content":"Although Havana is right on the water, there aren’t really any beaches to go to right in the city. Well, none that we came across at least. After some research, I decided that the best option would be to go to Santa Maria del Mar. It’s only about 20-30 minutes away by car, so it’s an easy day trip.",
+                            "link": "https://lushtoblush.com/havana-beach-santa-maria-del-mar/"
+                        }
+                    ],
+                    "feedback": [
+                        {
+                            "id": 1,
+                            "username": "inafoster",
+                            "rating": "5",
+                            "content":"Beautiful area, beautiful beach. We rented a condo. Some very good restaurants. One in particular was Tiramisu. Don't miss a side trip to San Bartolo to get some local flavor. Try the fruit smoothies in the outdoor market."
+                        },
+                        {
+                            "id": 2,
+                            "username": "Krista H",
+                            "rating": "5",
+                            "content":"Santa Maria is located about an hour outside the city of Lima on the Pan-American Highway. Many of the beaches around Lima are for club members only. Santa Maria is in a regulated community, but the public is allowed to enter and use the beaches. "
+                        },
+                        {
+                            "id": 3,
+                            "username": "BeachLover64Toronto",
+                            "rating": "4",
+                            "content":"Nice and clean beach, it is a little town with no hotels, it has houses and apartments for rent for days, weeks or months. It is safe and private, no pets allowed at the beach, they clean the sands everyday."
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Waikiki Beach",
+                    "info": "For those who love the beach, look no further than Waikiki. From Hilton Hawaiian Village on the west side to Kapi'olani Park on the east, Waikiki boasts a beautiful tropical climate with tons of activities and events for all ages.",
+                    "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14871.585898167597!2d-157.8283476717102!3d21.275565141199422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c00727682b6f4b1%3A0xc40785ec7f44b90f!2zV2Fpa8Sra8SrIEJlYWNo!5e0!3m2!1svi!2s!4v1714557770217!5m2!1svi!2s",
+                    "gallery": [
+                        {
+                            "id": 1,
+                            "path": "/images/Western/Waikiki Beach/beach (1).jpg"
+                        },
+                        {
+                            "id": 2,
+                            "path": "/images/Western/Waikiki Beach/beach (2).jpg"
+                        },
+                        {
+                            "id": 3,
+                            "path": "/images/Western/Waikiki Beach/beach (3).jpg"
+                        },
+                        {
+                            "id": 4,
+                            "path": "/images/Western/Waikiki Beach/beach (4).jpg"
+                        },
+                        {
+                            "id": 5,
+                            "path": "/images/Western/Waikiki Beach/beach (5).jpg"
+                        }
+                    ],
+                    "food": [
+                        {
+                            "id": 1,
+                            "info": "Vibrant and refreshing beverages bursting with exotic flavors from tropical fruits such as pineapple, mango, coconut, and passionfruit. Whether served with or without alcohol, these drinks offer a taste of paradise with each sip.",
+                            "name": "Tropical Drinks",
+                            "path": "/images/Western/Waikiki Beach/food (1).jpg",
+                            "location": "Poke Bar",
+                            "link": "https://www.tripadvisor.com.vn/Restaurant_Review-g60982-d12997069-Reviews-Poke_Bar-Honolulu_Oahu_Hawaii.html"
+                        },
+                        {
+                            "id": 2,
+                            "info":"A Japanese culinary delight featuring a variety of lightly battered and deep-fried seafood and vegetables. Crispy on the outside and tender on the inside, this dish offers a delightful contrast of textures and flavors.",
+                            "name": "Full Set Tempura",
+                            "path": "/images/Western/Waikiki Beach/food (2).jpg",
+                            "location": "Tempura Kiki",
+                            "link": "https://www.tripadvisor.com.vn/Restaurant_Review-g60982-d25325034-Reviews-Tempura_Kiki-Honolulu_Oahu_Hawaii.html"
+                        },
+                        {
+                            "id": 3,
+                            "info":"A culinary journey through the vibrant flavors of Hawaiian cuisine, featuring an array of dishes inspired by the islands' rich culinary heritage. this dish offers a delightful contrast of textures and flavors.",
+                            "name": "Hawaii's Traditional",
+                            "path": "/images/Western/Waikiki Beach/food (3).jpg",
+                            "location": "Highway Inn Kaka'ako",
+                            "link": "https://www.tripadvisor.com.vn/Restaurant_Review-g60982-d5602882-Reviews-Highway_Inn_Kaka_ako-Honolulu_Oahu_Hawaii.html"
+                        }
+                    ],
+                    "hotel": [
+                        {
+                            "id": 1,
+                            "name": "Hilton Hawaiian Village Waikiki Beach Resort",
+                            "loction":"2005 Kalia Road, Honolulu, Oahu, HI 96815",
+                            "path": "/images/Western/Waikiki Beach/hotel (1).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Hotel_Review-g60982-d87016-Reviews-Hilton_Hawaiian_Village_Waikiki_Beach_Resort-Honolulu_Oahu_Hawaii.html"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Halekulani Hotel",
+                            "loction":"2199 Kālia Road, Honolulu, Oahu, HI 96815",
+                            "path": "/images/Western/Waikiki Beach/hotel (2).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Hotel_Review-g60982-d90015-Reviews-Halekulani_Hotel-Honolulu_Oahu_Hawaii.html"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Sheraton Waikiki Beach Resort",
+                            "loction":"2255 Kalakaua Avenue, Honolulu, Oahu, HI 96815",
+                            "path": "/images/Western/Waikiki Beach/hotel (3).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Hotel_Review-g60982-d87108-Reviews-Sheraton_Waikiki_Beach_Resort-Honolulu_Oahu_Hawaii.html"
+                        }
+                    ],
+                    "travel": [
+                        {
+                            "id": 1,
+                            "name": "Hawaiian Airlines",
+                            "path": "/images/Western/Waikiki Beach/flight (1).jpg",
+                            "link": "https://www.tripadvisor.com.au/Airline_Review-d8729086-Reviews-Hawaiian-Airlines#REVIEWS"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Japan Airlines",
+                            "path": "/images/Western/Waikiki Beach/flight (2).jpg",
+                            "link": "https://www.tripadvisor.com.au/Airline_Review-d8729095-Reviews-Japan-Airlines-JAL#REVIEWS"
+                        }
+                    ],
+                    "activity": [
+                        {  
+                            "id": 1,
+                            "info": "Grand Tour Around Honolulu Island",
+                            "path": "/images/Western/Waikiki Beach/activity (1).jpg"  
+                        },
+                        {  
+                            "id": 2,
+                            "info": "Pearl Harbor USS Arizona Memorial",
+                            "path": "/images/Western/Waikiki Beach/activity (2).jpg"  
+                        },
+                        {  
+                            "id": 3,
+                            "info": "Honoring Polynesia's Forgotten History",
+                            "path": "/images/Western/Waikiki Beach/activity (3).jpg"  
+                        },
+                        {  
+                            "id": 3,
+                            "info": "Turtle Canyon Snorkel Adventure",
+                            "path": "/images/Western/Waikiki Beach/activity (4).jpg"  
+                        },
+                        {  
+                            "id": 3,
+                            "info": "Cocktail Sailing along Oahu's Waikiki Coast",
+                            "path": "/images/Western/Waikiki Beach/activity (5).jpg"  
+                        }
+                    ],
+                    "blog": [
+                        {
+                            "id": 1,
+                            "info": "History of the Waʻa",
+                            "content":"The first Hawaiians migrated from Oceania in 1300 with a fleet of outrigger canoes (waʻa), bringing along their livestock and families they navigated using the wind patterns and stars. The outrigger canoe was first created in a small island chain within Austronesia using a hollowed out tree stump.",
+                            "link": "https://www.waikikibeachservices.com/waikiki-beachboy-blog/history-of-the-wa%ca%bba/"
+                        },
+                        {
+                            "id": 2,
+                            "info":"Surfing Style",
+                            "content":"Every surfer has their own style, whether traditional or progressive they each glide the waves with their different moves. Most stylistic surfers ride a longboard, this is because it gives more stability to not only maneuver around the board but also helps the rider balance.",
+                            "link": "https://lushtoblush.com/havana-beach-santa-maria-del-mar/"
+                        }
+                    ],
+                    "feedback": [
+                        {
+                            "id": 1,
+                            "username": "Jurora",
+                            "rating": "4",
+                            "content":"We were at a hotel in Waikiki, for 2 weeks, so we got to see several areas of this lengthy, lovely beach. We walked along Kalakaua Ave. several days, along the wide sidewalk, and ended-up, going in and out of several beaches and areas."
+                        },
+                        {
+                            "id": 2,
+                            "username": "Lisa J",
+                            "rating": "5",
+                            "content":"I am from Florida so I am a little bias, but Waikiki Beach is beautiful and I would have loved to have seen it 100 years ago before all the buildings were built. "
+                        },
+                        {
+                            "id": 3,
+                            "username": "TinkToo",
+                            "rating": "5",
+                            "content":"Can get very crowded at times but always a nice place to hang out. Always enjoy a few hours at the beach. You can rent paddles boards, take surf lessons, snorkel. One end near the zoo is very calm and great for kids."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+           "id": 2,
+           "name": "Northern",
+           "title": "The Northern Beaches",
+           "path": "/images/Beachpage north.jpg",
+           "info": "Despite the cold environment and climate, the beaches remain stunningly beautiful. Here, you'll encounter unique features that are only exclusive to these shores.",
+           "beaches": [
+                {
+                    "id": 1,
+                    "name": "Kvalvika Beach",
+                    "info": "Reachable only by foot, Kvalvika Beach is situated on an isolated bay on the northern side of Moskenesoy, on the Lofoten Islands, Norway. It is one of those destinations that can make you feel as if you are standing on the edge of the world. With terrifically brilliant turquoise waves crashing against golden white sand and craggy, vertical cliffs that seem to rise to the clouds, this desolate but stunning spot makes for a truly inspirational visit.",
+                    "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23840.50631881581!2d13.079801977844564!3d68.0709280394329!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x45de19c203387e97%3A0xa98bcbe8be9f0dc4!2sKvalvika%20Beach!5e0!3m2!1svi!2s!4v1714557816904!5m2!1svi!2s",
+                    "gallery": [
+                        {
+                            "id": 1,
+                            "path": "/images/Northern/Kvalvika Beach/beach (1).jpg"
+                        },
+                        {
+                            "id": 2,
+                            "path": "/images/Northern/Kvalvika Beach/beach (2).jpg"
+                        },
+                        {
+                            "id": 3,
+                            "path": "/images/Northern/Kvalvika Beach/beach (3).jpg"
+                        },
+                        {
+                            "id": 4,
+                            "path": "/images/Northern/Kvalvika Beach/beach (4).jpg"
+                        },
+                        {
+                            "id": 5,
+                            "path": "/images/Northern/Kvalvika Beach/beach (5).jpg"
+                        }
+                    ],
+                    "food": [
+                        {
+                            "id": 1,
+                            "info": "A surf-and-turf delight featuring tender, juicy tenderloin steak paired with flaky, mild cod fish. Perfectly grilled to enhance their natural flavors, this dish offers a harmonious combination of succulent meat and delicate seafood",
+                            "name": "Grilled Tenderloin And Cod",
+                            "path": "/images/Northern/Kvalvika Beach/food (1).jpg",
+                            "location": "Gadus Restaurant",
+                            "link": "https://www.tripadvisor.com.vn/Restaurant_Review-g1527771-d21133020-Reviews-Gadus-Reine_Moskenes_Municipality_Moskenesoy_Lofoten_Islands_Nordland_Northern_.html"
+                            
+                        },
+                        {
+                            "id": 2,
+                            "info": "A delightful seafood dish featuring fresh salmon fillets, gently seared to perfection and infused with aromatic herbs. The crisp exterior locks in the moist and flaky texture of the salmon.",
+                            "name": "Pan-seared Salmon With Herbs",
+                            "path": "/images/Northern/Kvalvika Beach/food (2).jpg",
+                            "location": "Maren Anna",
+                            "link": "https://www.tripadvisor.com.vn/Restaurant_Review-g1821471-d1821474-Reviews-Maren_Anna-Sorvagen_Moskenesoy_Lofoten_Islands_Nordland_Northern_Norway.html"
+                        },
+                        {
+                            "id": 3,
+                            "info": " Pristine oysters harvested from the sea, offering a taste of the ocean's briny essence. Served fresh on the half shell with minced herbs, indicative of their freshness and purity. ",
+                            "name": "Fresh Green Oysters",
+                            "path": "/images/Northern/Kvalvika Beach/food (3).jpg",
+                            "location": "Restaurant Gammelbua",
+                            "link": "https://www.tripadvisor.com.vn/Restaurant_Review-g1527771-d2155344-Reviews-Restaurant_Gammelbua-Reine_Moskenes_Municipality_Moskenesoy_Lofoten_Islands_Nord.html"
+                        }
+                    ],
+                    "hotel": [
+                        {
+                            "id": 1,
+                            "name": "Reine Rorbuer Hotels",
+                            "location":"Reineveien 165, Reine, Moskenes Municipality 8390 Norway",
+                            "path": "/images/Northern/Kvalvika Beach/hotel (1).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Hotel_Review-g1527771-d1238144-Reviews-Reine_Rorbuer_by_Classic_Norway_Hotels-Reine_Moskenes_Municipality_Moskenesoy_Lofoten.html"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Sakrisoey Rorbuer",
+                            "location":"Sakrisoy, Reine, Moskenes Municipality 8390 Norway",
+                            "path": "/images/Northern/Kvalvika Beach/hotel (2).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Hotel_Review-g1527771-d1775382-Reviews-Sakrisoey_Rorbuer-Reine_Moskenes_Municipality_Moskenesoy_Lofoten_Islands_Nordland_Nor.html"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Catogården",
+                            "location":"Sverdrups vei 9 Reine sentrum, Reine, Moskenes Municipality 8390 Norway",
+                            "path": "/images/Northern/Kvalvika Beach/hotel (3).jpg",
+                            "link": "https://www.tripadvisor.com.au/Hotel_Review-g1527771-d12637220-Reviews-Catogarden-Reine_Moskenes_Municipality_Moskenesoy_Lofoten_Islands_Nordland_Northern_.html"
+                        }
+                    ],
+                    "travel": [
+                        {
+                            "id": 1,
+                            "name": "Norwegian",
+                            "path": "/images/Northern/Kvalvika Beach/flight (1).jpg",
+                            "link": "https://www.tripadvisor.com/Airline_Review-d8729078-Reviews-Finnair#REVIEWS"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Finnair",
+                            "path": "/images/Northern/Kvalvika Beach/flight (2).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Airline_Review-d8729078-Reviews-Finnair"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Lufthansa",
+                            "path": "/images/Northern/Kvalvika Beach/flight (3).jpg",
+                            "link": "https://www.tripadvisor.com/Airline_Review-d8729125-Reviews-Norwegian#REVIEWS"
+                        }
+                    ],
+                    "activity": [
+                        {  
+                            "id": 1,
+                            "info": "Kvalvika Beach Private Tour",
+                            "path": "/images/Northern/Kvalvika Beach/activity (1).jpg"  
+                        },
+                        {  
+                            "id": 2,
+                            "info": "Mountain Hiking",
+                            "path": "/images/Northern/Kvalvika Beach/activity (2).jpg"  
+                        },
+                        {  
+                            "id": 3,
+                            "info": "Photo And Van Trip",
+                            "path": "/images/Northern/Kvalvika Beach/activity (3).jpg"  
+                        }
+                    ],
+                    "blog": [
+                        {
+                            "id": 1,
+                            "info": "Kvalvika Beach Hiking Guild",
+                            "content":"Located in an isolated bay on the northern side of Moskenesøy and only reached by foot, Kvalvika feels as though it could be at the edge of the world, not an easy hour’s walk. Here turquoise waves crash on golden sands and vertical cliffs rise into the clouds in a display of Lofoten at its best.",
+                            "link": "https://www.68north.com/lofoten-hikes/hiking-kvalvika-beach/"
+                        },
+                        {
+                            "id": 2,
+                            "info": "Kvalvika Beach Hike Lofoten",
+                            "content":"The hike to Kvalvika Beach is one of the most popular trips in western Lofoten. This beautiful sandy beach located in the northern part of the Moskenesøya is surrounded by tall mountains and can only be reached on foot by an easy hike. If you are up for an extra challenge, you can combine visiting Kvalvika Beach with a hike to the nearby top Ryten.",
+                            "link": "https://guidetolofoten.com/kvalvika-beach-hike-lofoten/"
+                        }
+                    ],
+                    "feedback": [
+                        {
+                            "id": 1,
+                            "username": "Mateo",
+                            "rating": 5,
+                            "content": "It was like living in a dream! We arrived at the trailhead late (9pm) but it was June so it was full sunlight. The hike in was “easy” but that is a relative term (my wife and I are experienced hikers at age 38- we did see other older visitors that seemed to struggle). We planned this as an overnight stay to camp on the beach and I would highly recommend it!! "
+                        },
+                        {
+                            "id": 2,
+                            "username": "Beyond Tina",
+                            "rating": "4",
+                            "content": "As a frequent visitor to Lofoten, I always make a point to hike to Kvalvika Beach, which is a hidden gem nestled among the surrounding cliffs. The challenging but rewarding hike is well worth the effort for the stunning views of the ocean and the peaceful atmosphere. The soft sand and calm waters create a relaxing environment that is perfect for a peaceful getaway."
+                        },
+                        {
+                            "id": 3,
+                            "username": "Marianne MLandry",
+                            "rating": "5",
+                            "content": "A place to dream away. The ocean is blue like in carribean but rough, surrounded by beautiful mountains. I stayed here and meditated for 2 hours, it was amazing!"
+                        }
+                    ] 
+                },
+                {
+                    "id": 2,
+                    "name": "Luskentyre Beach",
+                    "info": "Luskentyre is one of the largest and most spectacular beaches on Isle of Harris, Scotland. Named one of the UK’s best beaches in the TripAdvisor Travellers’ Choice Awards, Luskentyre sands boasts miles of white sand and stunning green-blue water.Scenery includes wonderful sand dunes and the island of Taransay, famous for being the setting of the BBC’s Castaway. Nearby activities include hillwalking, cycling and much more.",
+                    "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d67925.95459007099!2d-6.9085329265546065!3d57.8575710121814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x488d9e91076a2e0f%3A0x8d9fc2bf31df8b4b!2sLuskentyre%20Beach!5e0!3m2!1svi!2s!4v1714557859640!5m2!1svi!2s",
+                    "gallery": [
+                        {
+                            "id": 1,
+                            "path": "/images/Northern/Luskentyre Beach/beach (1).jpg"
+                        },
+                        {
+                            "id": 2,
+                            "path": "/images/Northern/Luskentyre Beach/beach (2).jpg"
+                        },
+                        {
+                            "id": 3,
+                            "path": "/images/Northern/Luskentyre Beach/beach (3).jpg"
+                        },
+                        {
+                            "id": 4,
+                            "path": "/images/Northern/Luskentyre Beach/beach (4).jpg"
+                        },
+                        {
+                            "id": 5,
+                            "path": "/images/Northern/Luskentyre Beach/beach (5).jpg"
+                        }
+                    ],
+                    "food": [
+                        {
+                            "id": 1,
+                            "info": "A delightful dessert creation reminiscent of a tropical paradise. Featuring luscious strawberries atop a bed of creamy cheesecake filling, nestled within a crisp, golden pastry shell.",
+                            "name": "Strawberry Island",
+                            "path": "/images/Northern/Luskentyre Beach/food (1).jpg",
+                            "location": "Flavour Restaurant",
+                            "link": "https://www.tripadvisor.com.vn/Restaurant_Review-g316008-d12161091-Reviews-Flavour-Isle_of_Harris_Lewis_and_Harris_Outer_Hebrides_The_Hebrides_Scotland.html"
+                            
+                        },
+                        {
+                            "id": 2,
+                            "info": "A luxurious twist on the classic Eggs Benedict dish, featuring tender slices of smoked salmon nestled atop toasted English muffins, topped with perfectly poached eggs and velvety hollandaise sauce.",
+                            "name": "Egg Benedict Salmon",
+                            "path": "/images/Northern/Luskentyre Beach/food (2).jpg",
+                            "location": "Harris Hotel Restaurant",
+                            "link": "https://www.tripadvisor.com.vn/Restaurant_Review-g551894-d1869477-Reviews-Harris_Hotel_Restaurant-Tarbert_Isle_of_Harris_Lewis_and_Harris_Outer_Hebrides_Th.html"
+                        },
+                        {
+                            "id": 3,
+                            "info": "A tantalizing appetizer showcasing plump, tender scallops perfectly seared to golden perfection, accompanied by crispy strips of savory bacon. The delicate sweetness of the scallops pairs harmoniously with the smoky richness of the bacon.",
+                            "name": "Seared Scallop With Bacon",
+                            "path": "/images/Northern/Luskentyre Beach/food (3).jpg",
+                            "location": "Pierhouse Restaurant",
+                            "link": "https://www.tripadvisor.com.vn/Restaurant_Review-g551894-d1535911-Reviews-Pierhouse_Restaurant-Tarbert_Isle_of_Harris_Lewis_and_Harris_Outer_Hebrides_The_H.html"
+                        },
+                        {
+                            "id": 4,
+                            "info": "A delightful dish featuring thinly sliced smoked salmon served alongside a medley of fresh, crisp vegetables. The smoky richness of the salmon complements the vibrant flavors of the vegetables.",
+                            "name": "Smoke Salmon With Vegetables",
+                            "path": "/images/Northern/Luskentyre Beach/food (4).jpg",
+                            "location": "Talla na Mara",
+                            "link": "https://www.tripadvisor.com.vn/Restaurant_Review-g316008-d14057603-Reviews-Talla_na_Mara-Isle_of_Harris_Lewis_and_Harris_Outer_Hebrides_The_Hebrides_Scotla.html"
+                        }
+                    ],
+                    "hotel": [
+                        {
+                            "id": 1,
+                            "name": "Taylor Hill B&B",
+                            "loction": "18 Taylor Hill, Kintulavig Leverburgh, HS5 3TX Scotland",
+                            "path": "/images/Northern/Luskentyre Beach/hotel (1).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Hotel_Review-g316008-d2168890-Reviews-Taylor_Hill_B_B-Isle_of_Harris_Lewis_and_Harris_Outer_Hebrides_The_Hebrides_Scotland.html?lk=38d28dec-542d-43c2-92d0-b62c9a651158"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Hotel Hebrides",
+                            "loction": "Pier Road, Tarbert HS3 3DG Scotland",
+                            "path": "/images/Northern/Luskentyre Beach/hotel (2).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Hotel_Review-g551894-d1197873-Reviews-Hotel_Hebrides-Tarbert_Isle_of_Harris_Lewis_and_Harris_Outer_Hebrides_The_Hebrides_Sco.html"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Avalon Guesthouse",
+                            "loction": "12 West Side West Tarbert, HS3 3BG Scotland",
+                            "path": "/images/Northern/Luskentyre Beach/hotel (3).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Hotel_Review-g316008-d1568409-Reviews-Avalon_Guesthouse-Isle_of_Harris_Lewis_and_Harris_Outer_Hebrides_The_Hebrides_Scotland.html?lk=68ead5c6-3a80-4cb2-809d-c92135b2f2c4"
+                        }
+                    ],
+                    "travel": [
+                        {
+                            "id": 1,
+                            "name": "British-airways",
+                            "path": "/images/Northern/Luskentyre Beach/flight (1).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Airline_Review-d14190668-Reviews-Loganair"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Loganair",
+                            "path": "/images/Northern/Luskentyre Beach/flight (2).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Airline_Review-d8729039-Reviews-British-Airways"
+                        }
+                    ],
+                    "activity": [
+                        {  
+                            "id": 1,
+                            "info": "A Tour And Tasting Gin Distillery",
+                            "path": "/images/Northern/Luskentyre Beach/activity (1).jpg"  
+                        },
+                        {  
+                            "id": 2,
+                            "info": "Look For Highland cattle",
+                            "path": "/images/Northern/Luskentyre Beach/activity (2).jpg"  
+                        },
+                        {  
+                            "id": 3,
+                            "info": "Visit Ardbuldhe Gallery ",
+                            "path": "/images/Northern/Luskentyre Beach/activity (3).jpg"  
+                        },
+                        {  
+                            "id": 4,
+                            "info": "Day-tours Outer Hebrides",
+                            "path": "/images/Northern/Luskentyre Beach/activity (4).jpg"  
+                        },
+                        {  
+                            "id": 5,
+                            "info": "Go surfing",
+                            "path": "/images/Northern/Luskentyre Beach/activity (5).jpg"  
+                        }
+                    ],
+                    "blog": [
+                        {
+                            "id": 1,
+                            "info": "The Ultimate Luskentyre Beach Guide",
+                            "content":"Looking for everything you need to know to plan a visit to Luskentyre beach? Then you have come to the right place. It can be difficult to find detailed information on many of the beaches and sites on the Isle of Harris, Luskentyre beach is no exception.",
+                            "link": "https://scotlandlessexplored.com/luskentyre-beach/"
+                        },
+                        {
+                            "id": 2,
+                            "info": "A Place to Press Pause",
+                            "content":"Over the years as a guide with Wilderness Scotland, I have come to realise that Luskentyre is a place where you can press the pause button. Where you can forget about the frenetic pace of modern life, it’s here where you can tell the world that you’re getting off the merry-go-round for some ‘you time’.",
+                            "link": "https://www.wildernessscotland.com/blog/luskentyre-beach/"
+                        }
+                    ],
+                    "feedback": [
+                        {
+                            "id": 1,
+                            "username": "Clare S",
+                            "rating": "5",
+                            "content": "Certainly lived up to expectations despite the rain. Beautiful.The dog loved it. Will be back when the sun shines"
+                        },
+                        {
+                            "id": 2,
+                            "username": "Wavy",
+                            "rating": "5",
+                            "content": "A truly amazing massive beach with gorgeous views of mountains. The golden sand is 100% perfect so unbelievably clean and beautiful."
+                        },
+                        {
+                            "id": 3,
+                            "username": "Heidi B",
+                            "rating": "rating",
+                            "content": "This beach is stunning - miles of white sand to walk & a beautiful sunset to enjoy. We found it such a restful, peaceful, still place to visit."
+                        }
+                    ] 
+                }
+           ]
+        },
+        {
+            "id": 3,
+            "name": "Southern",
+            "title": "The Southern Beaches",
+            "path": "/images/Beachpage south.jpg",
+            "info": "With white sand, crystal-clear water, and some of the most breathtaking views, what's better than visiting the beaches in the Southern region ?",
+            "beaches": [
+                {
+                    "id": 1,
+                    "name": "Camp's Bay Beach",
+                    "info": "With its beautiful ocean views, mixture of almost turquoise and deep blue waters, pristine white stretch of beach, giant granite boulders and spectacular views of the famous Twelve Apostles mountain range and Lion’s Head in South Africa, it deserves all the praise it receives and more.",
+                    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13237.779373734511!2d18.36918178153185!3d-33.95540406920997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcc6653756d46b9%3A0x310788af50afb3fb!2sCamps%20Bay%20Beach!5e0!3m2!1svi!2s!4v1714557907048!5m2!1svi!2s",
+                    "gallery": [
+                        {
+                            "id": 1,
+                            "path": "/images/Southern/Camp's Bay Beach/beach (1).jpg"
+                        },
+                        {
+                            "id": 2,
+                            "path": "/images/Southern/Camp's Bay Beach/beach (2).jpg"
+                        },
+                        {
+                            "id": 3,
+                            "path": "/images/Southern/Camp's Bay Beach/beach (3).jpg"
+                        },
+                        {
+                            "id": 4,
+                            "path": "/images/Southern/Camp's Bay Beach/beach (4).jpg"
+                        },
+                        {
+                            "id": 5,
+                            "path": "/images/Southern/Camp's Bay Beach/beach (5).jpg"
+                        }
+                    ],
+                    "food": [
+                        {
+                            "id": 1,
+                            "info": "An extravagant culinary experience featuring a harmonious array of nine delectable dishes, each carefully crafted to tantalize the senses and celebrate the diversity of flavors.",
+                            "name": "Nine Harmony Feast",
+                            "path": "/images/Southern/Camp's Bay Beach/food (1).jpg",
+                            "location": "Mzansi restaurant",
+                            "link": "https://www.tripadvisor.com/Restaurant_Review-g312659-d5996581-Reviews-Mzansi-Cape_Town_Central_Western_Cape.html"
+                        },
+                        {
+                            "id": 2,
+                            "info": "A delightful dessert sensation infused with aromatic flavors that tantalize the palate. Whether it's the floral notes of lavender, the exotic allure of cardamom, or the comforting warmth of vanilla.",
+                            "name": "Fragrant Ice-cream",
+                            "path": "/images/Southern/Camp's Bay Beach/food (2).jpg",
+                            "location": "Reverie Social Table",
+                            "link": "https://www.tripadvisor.com/Restaurant_Review-g312659-d8729315-Reviews-Reverie_Social_Table-Cape_Town_Central_Western_Cape.html"
+                        },
+                        {
+                            "id": 3,
+                            "info": "A luxurious seafood delicacy featuring succulent lobster meat, expertly grilled to perfection. The lobster's tender flesh is infused with smoky flavors from the grill, enhancing its natural sweetness.",
+                            "name": "Grilled Lobster",
+                            "path": "/images/Southern/Camp's Bay Beach/food (3).jpg",
+                            "location": "The Hussar Grill Century City",
+                            "link": "https://www.tripadvisor.com/Restaurant_Review-g4464136-d23748550-Reviews-The_Hussar_Grill_Century_City-Century_City_Western_Cape.html"
+                        }
+                    ],
+                    "hotel": [
+                        {
+                            "id": 1,
+                            "name": "Atlanticview Cape Town Boutique Hotel",
+                            "loction": "31 Francolin Road, Camps Bay 8005 South Africa",
+                            "path": "/images/Southern/Camp's Bay Beach/hotel (1).jpg",
+                            "link": "https://www.tripadvisor.com/Hotel_Review-g312658-d631305-Reviews-Atlanticview_Cape_Town_Boutique_Hotel-Camps_Bay_Western_Cape.html"
+                        },
+                        {
+                            "id": 2,
+                            "name": "South Beach Camps Bay Boutique Hotel",
+                            "loction": "6 Link Road, Camps Bay 8005 South Africa",
+                            "path": "/images/Southern/Camp's Bay Beach/hotel (2).jpg",
+                            "link": "https://www.tripadvisor.com/Hotel_Review-g312658-d634216-Reviews-South_Beach_Camps_Bay_Boutique_Hotel-Camps_Bay_Western_Cape.html"
+                        },
+                        {
+                            "id": 3,
+                            "name": "POD Camps Bay Boutique Hotel",
+                            "loction": "3 Argyle Street, Camps Bay 8005 South Africa",
+                            "path": "/images/Southern/Camp's Bay Beach/hotel (3).jpg",
+                            "link": "https://www.tripadvisor.com/Hotel_Review-g312658-d1811065-Reviews-POD_Camps_Bay_Boutique_Hotel-Camps_Bay_Western_Cape.html"
+                        }
+                    ],
+                    "travel": [
+                        {
+                            "id": 1,
+                            "name": "Airlink",
+                            "path": "/images/Southern/Camp's Bay Beach/flight (1).jpg",
+                            "link": "https://www.tripadvisor.com/Airline_Review-d8729016-Reviews-Airlink#REVIEWS"
+                        }
+                    ],
+                    "activity": [
+                        {  
+                            "id": 1,
+                            "info": "Lion's Head Sunrise/Sunset Hike",
+                            "path": "/images/Southern/Camp's Bay Beach/activity (1).jpg"  
+                        },
+                        {  
+                            "id": 2,
+                            "info": "Cape Town Boat Trip",
+                            "path": "/images/Southern/Camp's Bay Beach/activity (2).jpg"  
+                        },
+                        {  
+                            "id": 3,
+                            "info": "Cape Of Good Hope Tour With Penguins",
+                            "path": "/images/Southern/Camp's Bay Beach/activity (3).jpg"  
+                        }
+                    ],
+                    "blog": [
+                        {
+                            "id": 1,
+                            "info": "Camps Bay named among world’s top 20",
+                            "content":"People travel from all around the world to visit our beautiful country and specifically to see our breathtaking beaches. The research ranks the top 100 beaches in the world, looking at visitor reviews, average temperature, rainfall during the summer months, amount of litter and Instagram tags.",
+                            "link": "https://www.iol.co.za/travel/south-africa/western-cape/camps-bay-named-among-worlds-top-20-most-beautiful-beaches-c257bcd3-6ebe-4e0f-8214-d6f620451e7e"
+                        },
+                        {
+                            "id": 2,
+                            "info": "All About Camps Bay In Cape Town",
+                            "content":"Cape Town, often touted as the city that fulfills every adventurer’s yearning for excitement, is more than just a claim—it’s a living reality. Whether you’re a beach aficionado seeking solace by the waves or a mountain enthusiast drawn to lofty peaks, Mother City has a symphony of experiences.",
+                            "link": "https://inbhubaneswar.com/cape-town/camps-bay/#google_vignette"
+                        }
+                    ],
+                    "feedback": [
+                        {
+                            "id": 1,
+                            "username": "Natasha M",
+                            "rating": "4",
+                            "content": "A lovely place to relax - we went on a windy day and the sand whipped us good, but it was worth it to have the Atlantic at our feel, Victoria Road cafes nearby and Table Mountain and the Twelve Apostles as a stunning backdrop. This was a beautiful place to catch some sun and cool off in the ocean."
+                        },
+                        {
+                            "id": 2,
+                            "username": "Jim W",
+                            "rating": "5",
+                            "content": "My wife and I continued our journey spending the rest of the day at Camp's Beach before heading back to our Bed & Breakfast. It was a lovely beach and the scenery looking back up to Table Mountain and out to sea took our breath away."
+                        },
+                        {
+                            "id": 3,
+                            "username": "Xantia",
+                            "rating": "4",
+                            "content": "Lovely visit to camps bay beach. Beautiful scenery with a view of lions head from the beach and quite a few tourists. White sand and bright blue ocean. "
+                        }
+                    ] 
+                },
+                {
+                    "id": 2,
+                    "name": "Ipanema Beach",
+                    "info": "Ipanema beach is bordered by Arpoador Beach on one end and Leblon Beach on the other end. This beach is considered one of the main centers of activity for the city of Rio, Brazil. One of the most expensive places to live, the neighborhood is full of wealthy residents. ",
+                    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7346.000113900074!2d-43.21127425391103!3d-22.987025389875672!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bd50124462bc9%3A0x297084a82551b8e4!2sIpanema%20Beach!5e0!3m2!1svi!2s!4v1714557950139!5m2!1svi!2s",
+                    "gallery": [
+                        {
+                            "id": 1,
+                            "path": "/images/Southern/Ipanema Beach/beach (1).jpg"
+                        },
+                        {
+                            "id": 2,
+                            "path": "/images/Southern/Ipanema Beach/beach (2).jpg"
+                        },
+                        {
+                            "id": 3,
+                            "path": "/images/Southern/Ipanema Beach/beach (3).jpg"
+                        },
+                        {
+                            "id": 4,
+                            "path": "/images/Southern/Ipanema Beach/beach (4).jpg"
+                        },
+                        {
+                            "id": 5,
+                            "path": "/images/Southern/Ipanema Beach/beach (5).jpg"
+                        }
+                    ],
+                    "food": [
+                        {
+                            "id": 1,
+                            "info": "A delectable seafood treat featuring succulent crab meat mixed with seasonings and breadcrumbs, formed into patties, and fried to golden perfection. Each bite offers a crispy exterior with a tender, flavorful interior.",
+                            "name": "Fried Crab Cake",
+                            "path": "/images/Southern/Ipanema Beach/food (1).jpg",
+                            "location": "Marine Resto",
+                            "link": "https://www.tripadvisor.com.vn/Restaurant_Review-g303506-d17760575-Reviews-Marine_Resto-Rio_de_Janeiro_State_of_Rio_de_Janeiro.html"
+                        },
+                        {
+                            "id": 2,
+                            "info": "A comforting and flavorful soup infused with the delicate sweetness of pumpkin and the rich taste of assorted seafood. This hearty dish combines tender pieces of shrimp, fish, and shellfish with creamy pumpkin broth.",
+                            "name": "Seafood Soup With Pumpkin",
+                            "path": "/images/Southern/Ipanema Beach/food (2).jpg",
+                            "location": "Don Pascual",
+                            "link": "https://www.tripadvisor.com.vn/Restaurant_Review-g303506-d2587661-Reviews-Don_Pascual-Rio_de_Janeiro_State_of_Rio_de_Janeiro.html"
+                        },
+                        {
+                            "id": 3,
+                            "info": "A refreshing and vibrant medley of freshly chopped fruits, bursting with color, flavor, and nutrients. This delightful dish typically includes a combination of sweet and tangy fruits such as strawberries, blueberries, pineapple, grapes, and kiwi.",
+                            "name": "Fruit Salad",
+                            "path": "/images/Southern/Ipanema Beach/food (3).jpg",
+                            "location": "Vino! Copacabana Wine Bar",
+                            "link": "https://www.tripadvisor.com.vn/Restaurant_Review-g303506-d25381455-Reviews-Vino_Copacabana_Wine_Bar-Rio_de_Janeiro_State_of_Rio_de_Janeiro.html"
+                        }
+                    ],
+                    "hotel": [
+                        {
+                            "id": 1,
+                            "name": "Rio Othon Palace Hotel",
+                            "location": "Avenida Atlântica, 3264 Copacabana, Rio de Janeiro, State of Rio de Janeiro 22070-000 Brazil",
+                            "path": "/images/Southern/Ipanema Beach/hotel (1).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Hotel_Review-g303506-d305448-Reviews-Rio_Othon_Palace_Hotel-Rio_de_Janeiro_State_of_Rio_de_Janeiro.html"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Hotel Nacional Rio De Janeirol",
+                            "location": "Avenida Niemeyer 769 São Conrado, Rio de Janeiro, State of Rio de Janeiro 22450-221 Brazil",
+                            "path": "/images/Southern/Ipanema Beach/hotel (2).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Hotel_Review-g303506-d17347687-Reviews-Hotel_Nacional_Rio_De_Janeiro-Rio_de_Janeiro_State_of_Rio_de_Janeiro.html"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Fairmont Rio de Janeiro Copacabana",
+                            "location": "Av. Atlantica, 4240 Copacabana, Rio de Janeiro, State of Rio de Janeiro 22070-002 Brazil",
+                            "path": "/images/Southern/Ipanema Beach/hotel (3).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Hotel_Review-g303506-d301194-Reviews-Fairmont_Rio_de_Janeiro_Copacabana-Rio_de_Janeiro_State_of_Rio_de_Janeiro.html"
+                        }
+                    ],
+                    "travel": [
+                        {
+                            "id": 1,
+                            "name": "Quatar Airways",
+                            "path": "/images/Southern/Ipanema Beach/flight (1).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Airline_Review-d8729134-Reviews-Qatar-Airways"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Azul Brazilian Airlines",
+                            "path": "/images/Southern/Ipanema Beach/flight (2).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Airline_Review-d8728972-Reviews-Azul"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Metrô Rio Subway",
+                            "path": "/images/Southern/Ipanema Beach/flight (3).jpg",
+                            "link": "https://www.rome2rio.com/map/Lapa-Rio-de-Janeiro-Brazil/Ipanema-Beach-State-of-Rio-de-Janeiro-Brazil#r/Metr%C3%B4-Rio"
+                        }
+                    ],
+                    "activity": [
+                        {  
+                            "id": 1,
+                            "info": "Rio's Full Day: Selarón Steps, Christ & Sugarloaf",
+                            "path": "/images/Southern/Ipanema Beach/activity (1).jpg"  
+                        },
+                        {  
+                            "id": 2,
+                            "info": "Hang Gliding Experience",
+                            "path": "/images/Southern/Ipanema Beach/activity (2).jpg"  
+                        },
+                        {  
+                            "id": 3,
+                            "info": "Rio Carnival Parade",
+                            "path": "/images/Southern/Ipanema Beach/activity (3).jpg"  
+                        },
+                        {  
+                            "id": 4,
+                            "info": "Exclusive Helicopter Flight",
+                            "path": "/images/Southern/Ipanema Beach/activity (4).jpg"  
+                        }
+                    ],
+                    "blog": [
+                        {
+                            "id": 1,
+                            "info": "5 reasons to stay in Ipanema, Rio de Janeiro",
+                            "content":"When traveling, one of the primary factors in the quality of travel is where to stay. The best neighborhood in Rio de Janeiro is for sure Ipanema, as it is in the South Zone, close to several tourist spots and with a variety of attractions on site. One of the most beautiful beach to visit",
+                            "link": "https://hostelipanemabeach.com/5-reasons-to-stay-in-ipanema-rio-de-janeiro/"
+                        },
+                        {
+                            "id": 2,
+                            "info":"A Walk Through Ipanema Beach",
+                            "content":"Ipanema is Rio’s hottest beach in every sense of the word. Not only is it considered the most fashionable place in the city to be seen, but it’s also warmer than the city’s other beaches since there are very few shade trees and the sun shines down unobstructed until dusk.",
+                            "link": "https://caffeinatedexcursions.com/a-walk-through-ipanema-rio-de-janeiro/"
+                        }
+                    ],
+                    "feedback": [
+                        {
+                            "id": 1,
+                            "username": "Steve D",
+                            "rating": "4",
+                            "content":"Must say it has the look and feel of Copacabana but much quieter. Whilst not as lively as its sisterbeach it still has all required for a great beach day. Starting to underhand that Rio is. City of amazing beaches."
+                        },
+                        {
+                            "id": 2,
+                            "username": "AlexSwallow",
+                            "rating": "5",
+                            "content":"The beaches in Rio really are incredible. I liked this beach just as much as Copacabana- it is the next bay along, heading out of the city- but I think I liked the area more than Copacabana as it had a more relaxed feel."
+                        },
+                        {
+                            "id": 3,
+                            "username": "Monica B",
+                            "rating": "5",
+                            "content":"Lovely beach, you can relax, go for swimming , do beach tennis or even if enjoy a lovely meal beside the beach. The sunset at Arpoador Rock is just an unique experience, no better place to see the sunset then Ipanema!!!!! Best place in the world!!!!!"
+                        }
+                    ] 
+                },
+                {
+                    "id": 3,
+                    "name": "Whitehaven Beach",
+                    "info": "Located on Whitsunday Island, Australia, Whitehaven Beach is not just a stretch of sand but a natural masterpiece. This seven-kilometre-long beach is renowned worldwide for its breathtaking scenic beauty. While the entire beach is extraordinary, its northern and southern ends offer distinctly different experiences. ",
+                    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7485.450789374488!2d149.02846884615093!3d-20.270220388867735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6bd8543936f3a3a1%3A0x808bfe71f86a4e1e!2sWhitehaven%20Beach!5e0!3m2!1svi!2s!4v1714558000003!5m2!1svi!2s",
+                    "gallery": [
+                        {
+                            "id": 1,
+                            "path": "/images/Southern/Whitehaven Beach/beach (1).jpg"
+                        },
+                        {
+                            "id": 2,
+                            "path": "/images/Southern/Whitehaven Beach/beach (2).jpg"
+                        },
+                        {
+                            "id": 3,
+                            "path": "/images/Southern/Whitehaven Beach/beach (3).jpg"
+                        },
+                        {
+                            "id": 4,
+                            "path": "/images/Southern/Whitehaven Beach/beach (4).jpg"
+                        },
+                        {
+                            "id": 5,
+                            "path": "/images/Southern/Whitehaven Beach/beach (5).jpg"
+                        }
+                    ],
+                    "food": [
+                        {
+                            "id": 1,
+                            "info": "A culinary delight crafted with flavors inspired by the tropical paradise. This dish encompasses the essence of island cuisine, featuring a fusion of fresh seafood, aromatic spices, and vibrant fruits. ",
+                            "name": "Island Special",
+                            "path": "/images/Southern/Whitehaven Beach/food (1).jpg",
+                            "location": "Hamilton Island Restaurant and Bar",
+                            "link": "https://www.tripadvisor.com/Restaurant_Review-g255085-d3207909-Reviews-Hamilton_Island_Golf_Club_Restaurant_and_Bar-Hamilton_Island_Whitsunday_Islands_Q.html"
+                        },
+                        {
+                            "id": 2,
+                            "info": "A tantalizing seafood creation combining delicate crab meat with aromatic basil, resulting in a burst of flavor in every bite. These savory cakes are expertly crafted with premium crab meat and fresh basil leaves.",
+                            "name": "Fresh Crab Cake Basil",
+                            "path": "/images/Southern/Whitehaven Beach/food (2).jpg",
+                            "location": "Beach Club Restaurant",
+                            "link": "https://www.tripadvisor.com/Restaurant_Review-g255085-d1434875-Reviews-Beach_Club_Restaurant-Hamilton_Island_Whitsunday_Islands_Queensland.html"
+                        },
+                        {
+                            "id": 3,
+                            "info": "A nutritious and flavorful starter designed to tantalize the taste buds while nourishing the body. This appetizer features a selection of fresh, wholesome ingredients such as crisp vegetables, lean proteins, and nutrient-rich superfoods.",
+                            "name": "Healthy Appetizer",
+                            "path": "/images/Southern/Whitehaven Beach/food (3).jpg",
+                            "location": "Mariners Restaurant",
+                            "link": "https://www.tripadvisor.com/Restaurant_Review-g255085-d1451353-Reviews-Mariners_Restaurant-Hamilton_Island_Whitsunday_Islands_Queensland.html"
+                        }
+                    ],
+                    "hotel": [
+                        {
+                            "id": 1,
+                            "name": "Palm Bungalows",
+                            "location": "3 Resort Drive, 4803 Australia",
+                            "path": "/images/Southern/Whitehaven Beach/hotel (1).jpg",
+                            "link": "https://www.tripadvisor.com/Hotel_Review-g255085-d287862-Reviews-Palm_Bungalows-Hamilton_Island_Whitsunday_Islands_Queensland.html"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Beach Club Hamilton Island",
+                            "location": "9 Resort Dr, 4803 Australia",
+                            "path": "/images/Southern/Whitehaven Beach/hotel (2).jpg",
+                            "link": "https://www.tripadvisor.com/Hotel_Review-g255085-d257107-Reviews-Beach_Club_Hamilton_Island-Hamilton_Island_Whitsunday_Islands_Queensland.html"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Elysian Luxury Eco Island Retreat",
+                            "location": "4802 Australia",
+                            "path": "/images/Southern/Whitehaven Beach/hotel (3).jpg",
+                            "link": "https://www.tripadvisor.com/Hotel_Review-g255089-d15183707-Reviews-Elysian_Luxury_Eco_Island_Retreat-Long_Island_Whitsunday_Islands_Queensland.html?spAttributionToken=MjU4Mzg1MDk"
+                        }
+                    ],
+                    "travel": [
+                        {
+                            "id": 1,
+                            "name": "Virgin Australia",
+                            "path": "/images/Southern/Whitehaven Beach/flight (1).jpg",
+                            "link": "https://www.tripadvisor.com/Airline_Review-d8728931-Reviews-Virgin-Australia#REVIEWS"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Qantas",
+                            "path": "/images/Southern/Whitehaven Beach/flight (2).jpg",
+                            "link": "https://www.tripadvisor.com/Airline_Review-d8729133-Reviews-Qantas#REVIEWS"
+                        }
+                    ],
+                    "activity": [
+                        {  
+                            "id": 1,
+                            "info": "Whitsundays Whitehaven Beach Tour",
+                            "path": "/images/Southern/Whitehaven Beach/activity (1).jpg"  
+                        },
+                        {  
+                            "id": 2,
+                            "info": "3-Night Whitsundays Private Charter Aboard",
+                            "path": "/images/Southern/Whitehaven Beach/activity (2).jpg"  
+                        },
+                        {  
+                            "id": 3,
+                            "info": "Camira Sailing Adventure",
+                            "path": "/images/Southern/Whitehaven Beach/activity (3).jpg"  
+                        },
+                        {  
+                            "id": 4,
+                            "info": "Whitehaven Beach Scuba Diving",
+                            "path": "/images/Southern/Whitehaven Beach/activity (4).jpg"  
+                        },
+                        {  
+                            "id": 5,
+                            "info": "1-Hour Whitsunday Islands and Heart Reef Scenic Flight",
+                            "path": "/images/Southern/Whitehaven Beach/activity (5    ).jpg"  
+                        }
+                    ],
+                    "blog": [
+                        {
+                            "id": 1,
+                            "info": "What is so special about White Haven Beach?",
+                            "content":"This is a common question we are asked along with can you fly to Whitehaven Beach so in the next few paragraphs we will explain what is so special about Whitehaven Beach and if you have any more questions our team at Barrier Reef Australia will be more than happy to speak with you.",
+                            "link": "https://www.barrierreefaustralia.com/blog/what-is-so-special-about-whitehaven-beach.2066/"
+                        },
+                        {
+                            "id": 2,
+                            "info":"Whitehaven Beach – 15 Reasons Why You Need To Visit",
+                            "content":"Discover fifteen reasons why our guests love visiting Whitehaven Beach, and why you should choose Red Cat Adventures for your Whitehaven Beach Tours from Airlie Beach.",
+                            "link": "https://redcatadventures.com.au/whitehaven-beach/"
+                        }
+                    ],
+                    "feedback": [
+                        {
+                            "id": 1,
+                            "username": "nitawilson70",
+                            "rating": "5",
+                            "content":"This was my second visit to whitehaven beach and the unspoilt beauty still astounds me today. Best place to access the beach is from Hamilton resort, taking approximately 30 minutes via a leisurely and scenic sail."
+                        },
+                        {
+                            "id": 2,
+                            "username": "pinkishgold",
+                            "rating": "5",
+                            "content":"I visited here as the main event of my trip to Australia. I got there by plane and then by boat, but the beauty of the ocean that spread out before me as soon as I arrived was overwhelming. The pure white beach and the crystal clear ocean were beautiful."
+                        },
+                        {
+                            "id": 3,
+                            "username": "Mairwen1",
+                            "rating": "5",
+                            "content":"Whitehaven Beach is usually listed as #1 sight in the Whitsundays. It’s a uniquely beautiful, sprawling white sand beach with stunning turquoise blue water."
+                        }
+                    ]
+                }
+            ]
+         },  
+        {
+            "id": 4,
+            "name": "Eastern",
+            "title": "The Eastern Beaches",
+            "path": "/images/Beachpage east.jpg",
+            "info": "These are the places to witness the earliest sunrise, surrounded by numerous mountains and islands, both large and small. The waters here will surely bring you unforgettable memories.",
+            "beaches": [
+                {
+                    "id": 1,
+                    "name": "Sao Beach",
+                    "info": "Sao Beach (south of Phu Quoc Island in Vietnam) - a beach considered as a raw pearl of the island, was once listed as one of the 10 most pristine and peaceful beaches in the world by CN Travel - A famous US travel consolidator on the West Coast.",
+                    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7857.044485127272!2d104.03522148477957!3d10.056225323634614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31a7913159688b2f%3A0xb474e14389b16ba8!2zQsOjaSB04bqvbSBTYW8!5e0!3m2!1svi!2s!4v1714558041641!5m2!1svi!2s",
+                    "gallery": [
+                        {
+                            "id": 1,
+                            "path": "/images/Eastern/Sao Beach/beach (1).jpg"
+                        },
+                        {
+                            "id": 2,
+                            "path": "/images/Eastern/Sao Beach/beach (2).jpg"
+                        },
+                        {
+                            "id": 3,
+                            "path": "/images/Eastern/Sao Beach/beach (3).jpg"
+                        },
+                        {
+                            "id": 4,
+                            "path": "/images/Eastern/Sao Beach/beach (4).jpg"
+                        },
+                        {
+                            "id": 5,
+                            "path": "/images/Eastern/Sao Beach/beach (5).jpg"
+                        }
+                    ],
+                    "food": [
+                        {
+                            "id": 1,
+                            "info": "A decadent and savory seafood dish showcasing plump oysters topped with a layer of gooey melted cheese, then grilled to perfection. This indulgent treat combines the briny essence of fresh oysters with the rich and creamy flavors.",
+                            "name": "Grilled Cheese Oysters",
+                            "path": "/images/Eastern/Sao Beach/food (1).jpg",
+                            "location": "Lava Restaurant",
+                            "link": "https://www.tripadvisor.com.vn/Restaurant_Review-g1184676-d16754531-Reviews-Lava-Duong_To_Phu_Quoc_Island_Kien_Giang_Province.html"
+                            
+                        },
+                        {
+                            "id": 2,
+                            "info": "Chocolate Muffin: A delectable baked treat that satisfies the sweet tooth with its rich, chocolatey goodness. Moist and tender, with a deep cocoa flavor, chocolate muffins are a delightful indulgence perfect for any time of day. ",
+                            "name": "Chocolate Muffin",
+                            "path": "/images/Eastern/Sao Beach/food (2).jpg",
+                            "location": "Tempus Fugit",
+                            "link": "https://www.tripadvisor.com.vn/Restaurant_Review-g12520037-d12120433-Reviews-Tempus_Fugit-An_Thoi_Phu_Quoc_Island_Kien_Giang_Province.html"
+                            
+                        },
+                        {
+                            "id": 3,
+                            "info": "A tantalizing twist on the classic pizza, featuring a medley of fresh seafood toppings atop a crispy, golden crust. From succulent shrimp and tender squid to savory scallops and briny clams.",
+                            "name": "Seafood Pizzas",
+                            "path": "/images/Eastern/Sao Beach/food (3).jpg",
+                            "location": "Sailing Club Phu Quoc",
+                            "link": "https://www.tripadvisor.com.vn/Restaurant_Review-g1184676-d15594058-Reviews-Sailing_Club_Phu_Quoc-Duong_To_Phu_Quoc_Island_Kien_Giang_Province.html"   
+                        }
+                    ],
+                    "hotel": [
+                        {
+                            "id": 1,
+                            "name": "Premier Village Phu Quoc Resort",
+                            "location": "Ong Doi Cape, An Thoi, Phu Quoc Island 920000 Vietnam",
+                            "path": "/images/Eastern/Sao Beach/hotel (1).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Hotel_Review-g12520037-d13376509-Reviews-Premier_Village_Phu_Quoc_Resort_Managed_By_Accor-An_Thoi_Phu_Quoc_Island_Kien_Giang.html?lk=e0416afa-ecf3-4d1e-ae7e-044a4120662b"
+                        },
+                        {
+                            "id": 2,
+                            "name": "New World Phu Quoc Resort",
+                            "location": "Sao Beach, An Thoi, Phu Quoc Island 92513 Vietnam",
+                            "path": "/images/Eastern/Sao Beach/hotel (2).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Hotel_Review-g12520037-d23138346-Reviews-New_World_Phu_Quoc_Resort-An_Thoi_Phu_Quoc_Island_Kien_Giang_Province.html?lk=8f31de8c-9f15-4bb4-bc66-e215865d91a5"
+                        },
+                        {
+                            "id": 3,
+                            "name": "JW Marriott Phu Quoc Emerald Bay Resort & Spa",
+                            "location": "Khem Beach, An Thoi, Phu Quoc Island Vietnam",
+                            "path": "/images/Eastern/Sao Beach/hotel (3).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Hotel_Review-g12520037-d12123781-Reviews-JW_Marriott_Phu_Quoc_Emerald_Bay_Resort_Spa-An_Thoi_Phu_Quoc_Island_Kien_Giang_Prov.html?lk=48ca9562-0ca2-439f-b86e-2671229b9396"
+                        }
+                    ],
+                    "travel": [
+                        {
+                            "id": 1,
+                            "name": "Bamboo Airways",
+                            "path": "/images/Eastern/Sao Beach/flight (1).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Airline_Review-d17550096-Reviews-Bamboo-Airways"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Vietnam Airlines",
+                            "path": "/images/Eastern/Sao Beach/flight (2).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Airline_Review-d8729180-Reviews-Vietnam-Airlines"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Jeju-air",
+                            "path": "/images/Eastern/Sao Beach/flight (3).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Airline_Review-d8728913-Reviews-Jeju-Air"
+                        }
+                    ],
+                    "activity": [
+                        {  
+                            "id": 1,
+                            "info": "A Tour With Cable Car",
+                            "path": "/images/Eastern/Sao Beach/activity (1).jpg"  
+                        },
+                        {  
+                            "id": 2,
+                            "info": "Explore The Coastline By Jeep",
+                            "path": "/images/Eastern/Sao Beach/activity (2).jpg"  
+                        },
+                        {  
+                            "id": 3,
+                            "info": "Visit Sun World Hon Thom Nature Park",
+                            "path": "/images/Eastern/Sao Beach/activity (3).jpg"  
+                        },
+                        {  
+                            "id": 4,
+                            "info": "Kayaking",
+                            "path": "/images/Eastern/Sao Beach/activity (4).jpg"  
+                        },
+                        {  
+                            "id": 5,
+                            "info": "Starfish Diving",
+                            "path": "/images/Eastern/Sao Beach/activity (5).jpg"  
+                        }
+                    ],
+                    "blog": [
+                        {
+                            "id": 1,
+                            "info": "Bai Sao Beach! Could This Be The Best Beach In Phu Quoc?",
+                            "content":"After being referred to as the best beach in Phu Quoc and even one of the most beautiful beaches in Vietnam, I was excited to see Sao Beach for myself.  visited in June, which is during school vacation in Vietnam so I expected Sao Beach to be jam-packed.",
+                            "link": "https://aworldtolive.com/sao-beach-phu-quoc/"
+                        },
+                        {
+                            "id": 2,
+                            "info": "Sao Beach: A Paradise In Phu Quoc, Vietnam",
+                            "content":"Sao Beach, my absolute favorite getaway, is a hidden paradise on the charming island of Phu Quoc, Vietnam. Every time I set foot on its ivory sand and watch the waves of the clear blue water, I’m convinced it’s the closest to heaven on Earth.",
+                            "link": "https://www.expatolife.com/sao-beach-phu-quoc-island-vietnam/"
+                        }
+                    ],
+                    "feedback": [
+                        {
+                            "id": 1,
+                            "username":"Mark1757",
+                            "rating": "5",
+                            "content": "Beautifull island, very friendly people, crystal clear sky and water, 10/10, best expereience i've ever had !"
+                        },
+                        {
+                            "id": 2,
+                            "username":"Remus C. H. A.",
+                            "rating": "5",
+                            "content": "Super clean beach but choppy seawater. Kind of hard for swimming during this March season. Wind was strong and super fine sands"
+                        },
+                        {
+                            "id": 3,
+                            "username":"MarGutte",
+                            "rating": "4",
+                            "content": "The stunning sunset views over the horizon create a romantic ambiance, ideal for a peaceful and serene getaway."
+                        }
+                    ] 
+                },
+                {
+                    "id": 2,
+                    "name": "White Beach",
+                    "info": "White Beach is essentially Boracay Island. As the island's main attraction, this Boracay beach is one of the best Visayas tourist spots and top tourist spots in the Philippines.",
+                    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1967.1935666598758!2d123.8083603387941!3d9.561857242577059!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33aa5339bbbd026f%3A0x4cd2b15a36ba4775!2sWhite%20Beach!5e0!3m2!1svi!2s!4v1714558074095!5m2!1svi!2s",
+                    "gallery": [
+                        {
+                            "id": 1,
+                            "path": "/images/Eastern/White Beach/beach (1).jpg"
+                        },
+                        {
+                            "id": 2,
+                            "path": "/images/Eastern/White Beach/beach (2).jpg"
+                        },
+                        {
+                            "id": 3,
+                            "path": "/images/Eastern/White Beach/beach (3).jpg"
+                        },
+                        {
+                            "id": 4,
+                            "path": "/images/Eastern/White Beach/beach (4).jpg"
+                        },
+                        {
+                            "id": 5,
+                            "path": "/images/Eastern/White Beach/beach (5).jpg"
+                        }
+                    ],
+                    "food": [
+                        {
+                            "id": 1,
+                            "info": "A gourmet delight showcasing succulent lamb loin grilled to perfection, accompanied by tender asparagus spears. The tender lamb, seasoned with aromatic herbs and spices, offers a rich and savory flavor.",
+                            "name": "Grilled Lamp Loin With Spagus",
+                            "path": "/images/Eastern/White Beach/food (1).jpg",
+                            "location": "Munimuni Restaurant",
+                            "link": "https://www.tripadvisor.com/Restaurant_Review-g294260-d25008244-Reviews-Munimuni_Restaurant-Boracay_Malay_Aklan_Province_Panay_Island_Visayas.html"
+                            
+                        },
+                        {
+                            "id": 2,
+                            "info": "Herbaceous Octo-grill: An exquisite dish featuring tender octopus grilled to perfection with a blend of aromatic herbs and spices. The herbaceous flavors infuse the octopus with a delightful aroma and depth of taste.",
+                            "name": "Herbaceous Octo-grill",
+                            "path": "/images/Eastern/White Beach/food (2).jpg",
+                            "location": "Salsa Fusion Restaurant",
+                            "link": "https://www.tripadvisor.com/Restaurant_Review-g294260-d23863170-Reviews-Salsa_Fusion_Restaurant-Boracay_Malay_Aklan_Province_Panay_Island_Visayas.html"
+                            
+                        },
+                        {
+                            "id": 3,
+                            "info": "A vibrant and colorful dish that brings joy to the palate with its diverse array of fresh fruits, vegetables, and wholesome ingredients. This delightful creation showcases a rainbow of flavors, textures, and nutrients.",
+                            "name": "Rainbow Bliss",
+                            "path": "/images/Eastern/White Beach/food (3).jpg",
+                            "location": "La Fiesta",
+                            "link": "https://www.tripadvisor.com/Restaurant_Review-g294260-d26501682-Reviews-La_Fiesta_At_Mandarin_Bay-Boracay_Malay_Aklan_Province_Panay_Island_Visayas.html"   
+                        }
+                    ],
+                    "hotel": [
+                        {
+                            "id": 1,
+                            "name": "Henann Crystal Sands Resort",
+                            "location": "Beachfront, Station 1 In Between Boat Station 1 And D'mall, Malay, Aklan Province 5608 Philippines",
+                            "path": "/images/Eastern/White Beach/hotel (1).jpg",
+                            "link": "https://www.tripadvisor.com/Hotel_Review-g294260-d12799627-Reviews-Henann_Crystal_Sands_Resort-Boracay_Malay_Aklan_Province_Panay_Island_Visayas.html"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Mandala Spa & Resort Villas",
+                            "location": "Station 3, Manoc-Manoc, Malay, Aklan Province 5608 Philippines",
+                            "path": "/images/Eastern/White Beach/hotel (2).jpg",
+                            "link": "https://www.tripadvisor.com/Hotel_Review-g26259616-d576384-Reviews-Mandala_Spa_Resort_Villas-Manoc_Manoc_Boracay_Malay_Aklan_Province_Panay_Island_Visay.html"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Henann Palm Beach Resort",
+                            "location": "Station 2, Beachfront, Malay, Aklan Province 5608 Philippines",
+                            "path": "/images/Eastern/White Beach/hotel (3).jpg",
+                            "link": "https://www.tripadvisor.com/Hotel_Review-g294260-d13531831-Reviews-Henann_Palm_Beach_Resort-Boracay_Malay_Aklan_Province_Panay_Island_Visayas.html"
+                        }
+                    ],
+                    "travel": [
+                        {
+                            "id": 1,
+                            "name": "Philippine Airlines",
+                            "path": "/images/Eastern/White Beach/flight (1).jpg",
+                            "link": "https://www.tripadvisor.com/Airline_Review-d8729130-Reviews-Philippine-Airlines-PAL#REVIEWS"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Malaysia Airlines",
+                            "path": "/images/Eastern/White Beach/flight (2).jpg",
+                            "link": "https://www.tripadvisor.com/Airline_Review-d8729116-Reviews-Malaysia-Airlines#REVIEWS"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Caticlan Bus Station",
+                            "path": "/images/Eastern/White Beach/flight (3).jpg",
+                            "link": "https://12go.asia/en/trip-page/PH0yke0yGh5d6b13203SPY6d/2024-04-17-06-00-00?position=1&fromBestOptions=1&isRecommended=1"
+                        }
+                    ],
+                    "activity": [
+                        {  
+                            "id": 1,
+                            "info": "4 Hour Private Island Hopping Tour",
+                            "path": "/images/Eastern/White Beach/activity (1).jpg"  
+                        },
+                        {  
+                            "id": 2,
+                            "info": "Scuba Diving With U/W Photo And Video",
+                            "path": "/images/Eastern/White Beach/activity (2).jpg"  
+                        },
+                        {  
+                            "id": 3,
+                            "info": "Helicopter Tour Adventure",
+                            "path": "/images/Eastern/White Beach/activity (3).jpg"  
+                        },
+                        {  
+                            "id": 4,
+                            "info": "ATV Tour",
+                            "path": "/images/Eastern/White Beach/activity (4).jpg"  
+                        },
+                        {  
+                            "id": 5,
+                            "info": "Boracay Parasailing Experience",
+                            "path": "/images/Eastern/White Beach/activity (5).jpg"  
+                        }
+                    ],
+                    "blog": [
+                        {
+                            "id": 1,
+                            "info": "A complete White Beach guide",
+                            "content":"White Beach is by far the biggest and most popular beach in Boracay. But what can you find there and where do you stay? On this page I describe the beach and its different areas in detail… Once read you should have a very good idea of what to expect.",
+                            "link": "https://boracaycompass.com/white-beach-guide/"
+                        },
+                        {
+                            "id": 2,
+                            "info": "Weekends In Philippines: The Beach Bum Life",
+                            "content":"The small island Boracay is definitely no stranger to us all. We’ve heard about the white sand beaches, rows of palm trees and diverse marine life, making it the ultimate beach destination in Philippines! If you’re planning a visit to this beach paradise.",
+                            "link": "https://www.klook.com/blog/3d2n-itinerary-boracay/"
+                        }
+                    ],
+                    "feedback": [
+                        {
+                            "id": 1,
+                            "username":"KarlieTravel",
+                            "rating": "5",
+                            "content": "Absolutely gorgeous!!! I loved this beach!! Station 1 is nice and quiet, Station 2 is where D’Mall is at so it is busy and the locals are hustling for business, which can be a bit annoying but it’s understandable, cause it’s their ‘bread and butter’"
+                        },
+                        {
+                            "id": 2,
+                            "username":"royce r",
+                            "rating": "4",
+                            "content": "This was my second visit to the island. Once again I stayed at Station 3 as I find this end has less tourists around and it is quieter at night. Plenty of tourists coming and going each day."
+                        },
+                        {
+                            "id": 3,
+                            "username":"JC 23",
+                            "rating": "4",
+                            "content": "Pristine white sand and the turquoise beaches makes Boracay a holiday paradise. Add to that the breathtaking sunsets, fun water activities, a booming nightlife and a plethora of top rated restaurants and resorts, and it is simply one of the best holiday destinations for couples and families alike."
+                        }
+                    ] 
+                },
+                {
+                    "id": 3,
+                    "name": "Yonaha Maehama Beach",
+                    "info": "Yonaha Maehama Beach is one of the most popular beaches on Miyako Island, Japan and is said to be the eastern beach with the most beautiful snow-white sand, velvety sand stretching seven kilometers along with the beauty of the dark blue sea gradually expanding towards the horizon can make you stunned.",
+                    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14495.054816575013!2d125.2526747645369!3d24.734991337271108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34f4559004ecf939%3A0x4a5129e59bbe4503!2sYonaha%20Beach!5e0!3m2!1svi!2s!4v1714558104304!5m2!1svi!2s",
+                    "gallery": [
+                        {
+                            "id": 1,
+                            "path": "/images/Eastern/Yonaha Maehama Beach/beach (1).jpg"
+                        },
+                        {
+                            "id": 2,
+                            "path": "/images/Eastern/Yonaha Maehama Beach/beach (2).jpg"
+                        },
+                        {
+                            "id": 3,
+                            "path": "/images/Eastern/Yonaha Maehama Beach/beach (3).jpg"
+                        },
+                        {
+                            "id": 4,
+                            "path": "/images/Eastern/Yonaha Maehama Beach/beach (4).jpg"
+                        },
+                        {
+                            "id": 5,
+                            "path": "/images/Eastern/Yonaha Maehama Beach/beach (5).jpg"
+                        }
+                    ],
+                    "food": [
+                        {
+                            "id": 1,
+                            "info": "A sizzling sensation featuring a delightful assortment of Japanese gyoza dumplings, expertly pan-fried to golden perfection. Served hot on a sizzling platter, these savory dumplings offer a crispy exterior and a tender, flavorful filling.",
+                            "name": "Sizzling Gyoza Platter",
+                            "path": "/images/Eastern/Yonaha Maehama Beach/food (1).jpg",
+                            "location": "Goya Restaurant",
+                            "link": "https://www.tripadvisor.com/Restaurant_Review-g680765-d1314209-Reviews-Goya-Miyakojima_Okinawa_Prefecture.html"  
+                        },
+                        {
+                            "id": 2,
+                            "info": "A culinary masterpiece of Japanese cuisine, Umikaze Rolls Sushi features a delightful combination of fresh seafood, crisp vegetables, and savory rice rolled in nori seaweed and sliced into bite-sized pieces.",
+                            "name": "Umikaze Rolls Sushi",
+                            "path": "/images/Eastern/Yonaha Maehama Beach/food (2).jpg",
+                            "location": "Botta Restaurant",
+                            "link": "https://www.tripadvisor.com/Restaurant_Review-g680765-d4837704-Reviews-Botta-Miyakojima_Okinawa_Prefecture.html"   
+                        },
+                        {
+                            "id": 3,
+                            "info": "A classic appetizer beloved for its simplicity and elegance, Shrimp Cocktail features plump, juicy shrimp served chilled and accompanied by a zesty cocktail sauce. The shrimp are typically poached to perfection.",
+                            "name": "Shrimp Cocktail",
+                            "path": "/images/Eastern/Yonaha Maehama Beach/food (3).jpg",
+                            "location": "Sumibi Yakiniku Ryuguen",
+                            "link": "https://www.tripadvisor.com/Restaurant_Review-g680765-d6205940-Reviews-Sumibi_Yakiniku_Ryuguen-Miyakojima_Okinawa_Prefecture.html"   
+                        }
+                    ],
+                    "hotel": [
+                        {
+                            "id": 1,
+                            "name": "Shigira Bayside Suite Allamanda",
+                            "location": "914 Shimojiyonaha, Miyakojima 906-0305 Okinawa Prefecture",
+                            "path": "/images/Eastern/Yonaha Maehama Beach/hotel (1).jpg",
+                            "link": "https://www.tripadvisor.com/Hotel_Review-g680765-d505826-Reviews-Miyakojima_Tokyu_Hotel_Resorts-Miyakojima_Okinawa_Prefecture.html"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Hotel Rising Sun Miyakojima",
+                            "location": "1063 Hirarakugai, Miyakojima 906-0015 Okinawa Prefecture",
+                            "path": "/images/Eastern/Yonaha Maehama Beach/hotel (2).jpg",
+                            "link": "https://www.tripadvisor.com/Hotel_Review-g680765-d6650782-Reviews-Hotel_Rising_Sun_Miyakojima-Miyakojima_Okinawa_Prefecture.html"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Feliz Villa Suite Irabujima Sawada",
+                            "location": "1725-9 Sawada Irabu, Miyakojima 906-0507 Okinawa Prefecture",
+                            "path": "/images/Eastern/Yonaha Maehama Beach/hotel (3).jpg",
+                            "link": "https://www.tripadvisor.com/Hotel_Review-g680765-d13965482-Reviews-Feliz_Villa_Suite_Irabujima_Sawada-Miyakojima_Okinawa_Prefecture.html"
+                        }
+                    ],
+                    "travel": [
+                        {
+                            "id": 1,
+                            "name": "Japan Airlines",
+                            "path": "/images/Eastern/Yonaha Maehama Beach/flight (1).jpg",
+                            "link": "https://www.wego.vn/en/airlines/japan-airlines-jl"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Nippon Airways",
+                            "path": "/images/Eastern/Yonaha Maehama Beach/flight (2).jpg",
+                            "link": "https://www.wego.com/airlines/all-nippon-airways-nh"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Yachiyo Bus Taxi",
+                            "path": "/images/Eastern/Yonaha Maehama Beach/flight (3).jpg",
+                            "link": "https://www.tripadvisor.com.vn/Attraction_Review-g680765-d13960369-Reviews-Yachiyo_Bus_Taxi-Miyakojima_Okinawa_Prefecture.html"
+                        }
+                    ],
+                    "activity": [
+                        {  
+                            "id": 1,
+                            "info": "Snorkeling With Sea Turtle",
+                            "path": "/images/Eastern/Yonaha Maehama Beach/activity (1).jpg"  
+                        },
+                        {  
+                            "id": 2,
+                            "info": "Try Flyboard",
+                            "path": "/images/Eastern/Yonaha Maehama Beach/activity (2).jpg"  
+                        },
+                        {  
+                            "id": 3,
+                            "info": "Wakeboarding",
+                            "path": "/images/Eastern/Yonaha Maehama Beach/activity (3).jpg"  
+                        },
+                        {  
+                            "id": 4,
+                            "info": "Starry Sky Night tour",
+                            "path": "/images/Eastern/Yonaha Maehama Beach/activity (4).jpg"  
+                        },
+                        {  
+                            "id": 5,
+                            "info": "Experience Canoeing",
+                            "path": "/images/Eastern/Yonaha Maehama Beach/activity (5).jpg"  
+                        }
+                    ],
+                    "blog": [
+                        {
+                            "id": 1,
+                            "info": "A Guide to Yonaha Maehama: Miyako Island’s Best Beach",
+                            "content":"If you plan to visit Miyako-jima, Yonaha Maehama Beach (与那覇前浜) is the spot that you have to visit. It is the most beautiful beach on Miyako Island or even in Okinawa. The beach stretches about 7km southwest of the island and is formed with powder, snow-like white sand.",
+                            "link": "https://visitjapan-vegetarian.com/a-guide-to-yonaha-maehama-miyako-islands-best-beach/"
+                        },
+                        {
+                            "id": 2,
+                            "info": "Three Days Exploring Around Okinawa’s Miyako Island",
+                            "content":"Welcome to a paradise of clear waters, sandy beaches, and breathtaking natural beauty. Miyako Island is a stunning tropical destination for anyone looking to immerse themselves in its laid-back vibe. Go on outdoor excursions that highlight the island's natural beauty, partake in activities that represent the uniqueness of Okinawan culture, ",
+                            "link": "https://visitokinawajapan.com/travel-inspiration/three-days-miyako-island/"
+                        }
+                    ],
+                    "feedback": [
+                        {
+                            "id": 1,
+                            "username":"Tonetone",
+                            "rating": "5",
+                            "content": "Had the opportunity to visit this beautiful beach while staying at the Tokyu Vacations Miyakojima resort; the resort is right along the beach. The waters are warm, and from the resort there is a shallow area where one can stand and enjoy the rush of waves"
+                        },
+                        {
+                            "id": 2,
+                            "username":"Jean1823",
+                            "rating": "5",
+                            "content": "The powdery white sand, the crystal clear blue waters, the fish swimming close to the shore.. what more could you ask for? Love this beach!"
+                        },
+                        {
+                            "id": 3,
+                            "username":"ManchesterAlbion",
+                            "rating": "4",
+                            "content": "This is one of the greatest beaches in the world for simply swimming and sunbathing. The sand is beautiful and the water is completely clear. There is a great beach bar for lunch or a drink. "
+                        }
+                    ] 
+                }
+            ]
+        }                  
+    ]
+}

@@ -1,0 +1,58 @@
+.HP_service-img {
+    width:100%; 
+    height: 300px;
+
+    @media (max-width: 1024px) {
+        height: 200px;
+    }
+}
+
+.serviceContainer {
+    animation: slideUp 1s ease-in-out;
+
+    a:hover {
+        transform: scale(1.05);
+        transition: transform 0.3s ease;
+
+        span {
+            border-radius: 20px;
+        }
+
+        .HP_service-img-name {  
+            color: black;
+            background-color: #ddd5d5d2;
+
+            @media (max-width: 1024px) {
+                font-size: 2.5rem;
+            }
+
+            @media (max-width: 768px) {
+                font-size: 2rem;
+            }
+        }
+    }
+}
+
+@keyframes slideUp {
+    from {
+        transform: translateY(100%);
+        opacity: 0.5;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.HP_service-img-name {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    right: 0;
+    font-size: 2.8rem;
+    font-family: var(--font-write);
+    text-align: center;
+    font-weight: 800;
+    color: transparent;
+    transition: color 0.3s ease, font-size 0.3s ease, background-color 0.3s ease;
+}

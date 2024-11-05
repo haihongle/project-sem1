@@ -1,0 +1,54 @@
+.HP_image-img {
+    width:100%; 
+    height: 600px;
+    image-rendering: auto;
+
+    @media (max-width: 1024px) {
+        height: 300px;
+    }
+}
+
+.HP_image-change {
+    z-index: 1;
+    height: 100%;
+    width: 5%;
+    background-color: transparent;
+    border: none;
+
+    @media (max-width: 768px) {
+        width: 10%;
+    }
+
+    &:hover {
+        opacity: 0.9;
+        background-color: #ffffff48;
+
+        i {
+            color: var(--main-color);
+        }
+    }
+
+    i {
+        font-size: 8rem;
+        color: var(--secondary-color);
+
+        @media (max-width: 576px) {
+            font-size: 6rem;
+        }
+    }
+}
+
+.imageContainer {
+    animation: slideDown 1s ease-in-out;
+}
+
+@keyframes slideDown {
+    from {
+        transform: translateY(-100%);
+        opacity: 0.5;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}

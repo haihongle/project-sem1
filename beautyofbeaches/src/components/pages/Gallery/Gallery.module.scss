@@ -1,0 +1,49 @@
+.Gallerytittle {
+    font-size: 5rem;
+    text-align: center;
+    margin-top: 50px;
+    font-family: var(--font-main);
+}
+
+.galleryContainer {
+    animation: slideFromRight 1.25s ease forwards;
+    opacity: 0;
+
+    img {
+        width: 100%;
+        height: 380px;
+
+        @media (max-width: 1024px) {
+            height: 250px;
+        }  
+    }
+}
+
+@keyframes slideFromRight {
+    from {
+      transform: translateY(100%);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+}
+
+.galleryBtn {
+    position: absolute;
+    bottom: -10px;
+    width: 99%;
+    font-size: 2.5rem;
+    font-family: var(--font-main);
+    color: var(--main-color);
+    font-weight: 600;
+    border: none;
+    background-color: #e6e6e694;
+    border-radius: 50px;
+
+    &:hover {
+        background-color: var(--main-color);
+        color: var(--secondary-color)
+    }
+}
